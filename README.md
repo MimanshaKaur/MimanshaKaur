@@ -1,12 +1,10 @@
 <br>
     <img src="./images/Github banner.png">
 <br>
-<center>
+<h1 align="center">👋 Hi there, I’m Mimansha Kaur</h1>
+<h3 align="center">Pythonic Mindset | Data Science Enthusiast | Future Data Scientist 🌐</h3>
+<h4 align="center"><i>Crafting Intelligent Solutions with Python, Data & AI — One at a Time✨</h4>
 
-# 👋 Hi there, I’m Mimansha Kaur
-### Pythonic Mindset | Data Science Enthusiast | Future Data Scientist 🌐
-<i>Crafting Intelligent Solutions with Python, Data & AI — One at a Time✨
-</center>
 
 # 💫 About Me:
 <br>👩🏻‍🎓 BCA Graduate (2022-25) from University of Lucknow, India <br>💻 Experienced in Python, Data Science, and AI/ML through projects & internships<br>🌐 Worked on multiple web development and Python-based projects<br>📊 Skilled in data analysis, machine learning , and AI-driven solutions<br>🌱 Open Source Contributor at GSSoC<br>🚀 Passionate about solving real-world problems with data-driven approaches<br>🎯 Aspiring Data Scientist continuously exploring new tools & techniques<br><br>
