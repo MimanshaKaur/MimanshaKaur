@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MimanshaKaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## GSSoC'24 Badges
-<img src="">
+<img src="./images/gssoc.jpg">
 
 ## Hacktoberfest'24 Badges
 [![An image of @mimanshakaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mimanshakaur)](https://holopin.io/@mimanshakaur)
